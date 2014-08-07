@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <title>¡Bienvenido a Facebook</title>
+        <link rel="stylesheet" type="text/css" href="Documentos/css/main.css">
+        <script src=" Documentos/js/main.js" type="text/javascript"></script>
+        <link rel="shortcut icon" href="Documentos/favicon/favicon.ico">
+    </head>
+    <body>
+        <form>
+            <table>
+                <tr>
+                    <td align="center" valign="center" width="65%">
+                    <center>
+                       <strong class="f">facebook</strong>
+                    </center>
+                    </td>
+                    <td colspan ="2">
+                    <span class="entrar">Correo o teléfono</span>
+                      &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+                    <span class="entrar">Contraseña</span>
+                    <br>
+            <input type="text" name="correo">
+            <input type="password" name="palclave">&nbsp;
+            <button id="password" type="submit" onClick="Saltar(this.form.palclave.value)"><strong>Entrar</strong></button>
+                   <br>
+            <input type="checkbox" value="Sesion">
+                    <span class="return">No cerrar sesión</span>
+                       &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+                     <a href="" class="return">¿Has olvidado tu contraseña?</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td rowspan="7">
+                        <div align="right"><img src="Documentos/img/IMGFB.png"></div> 
+                    </td>
+                    <td colspan="2"><br>
+                    <span id="registrar"><strong>Regístrate</strong></span><br>
+                    <span id="free">Es gratis y lo será siempre.</span><br><br>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <input type="text" size="20" class="nombre" placeholder="Nombre">
+                        <input type="text" size="19" class="nombre" placeholder="Apellidos">
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                    <input type="text" name="CORREO1" size="48" class="nombre" placeholder="Correo electrónico"><br>
+                    </td>
+                </tr>
+                <tr>
+                    <td  colspan="2">
+                    <INPUT type="text"name="CORREO2" size="48" class="nombre" placeholder="Vuelve a escribir tu correo electrónico"><br>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                    <input type="password" placeholder="Contraseña nueva" SIZE="48" class="nombre"><br>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <span id="nac">Fecha de nacimiento</span><br>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <select name="DIA" class="fecha">
+                        <option value="DIA">Día</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                        <option value="11">11</option>
+                        <option value="12">12</option>
+                        <option value="13">13</option>
+                        <option value="14">14</option>
+                        <option value="15">15</option>
+                        <option value="16">16</option>
+                        <option value="17">17</option>
+                        <option value="18">18</option>
+                        <option value="19">19</option>
+                        <option value="20">20</option>
+                        <option value="21">21</option>
+                        <option value="22">22</option>
+                        <option value="23">23</option>
+                        <option value="24">24</option>
+                        <option value="25">25</option>
+                        <option value="26">26</option>
+                        <option value="27">27</option>
+                        <option value="28">28</option>
+                        <option value="29">29</option>
+                        <option value="30">30</option>
+                        <option value="31">31</option>
+                        </select>
+
+                        <select name="MES" class="fecha">
+                        <option value="MES">Mes</option>
+                        <option value="1">Ene</option>
+                        <option value="2">Feb</option>
+                        <option value="3">Mar</option>
+                        <option value="4">Abr</option>
+                        <option value="5">May</option>
+                        <option value="6">Jun</option>
+                        <option value="7">Jul</option>
+                        <option value="8">Ago</option>
+                        <option value="9">Sep</option>
+                        <option value="10">Oct</option>
+                        <option value="11">Nov</option>
+                        <option value="12">Dic</option>
+                        </select>
+
+                        <select name="AÑO" class="fecha">
+                        <option value="AÑO">Año</option>
+                        <option value="1">2000</option>
+                        <option value="2">1999</option>
+                        <option value="3">1998</option>
+                        <option value="4">1997</option>
+                        <option value="5">1996</option>
+                        <option value="6">1995</option>
+                        <option value="7">1994</option>
+                        <option value="8">1993</option>
+                        <option value="9">1992</option>
+                        <option value="10">1991</option>
+                        <option value="11">1990</option>
+                        <option value="12">1989</option>
+                        </select>
+                    <td width="66%" class="function">
+                        <span id="porque">¿Por qué tengo que dar mi<br>
+                        fecha de nacimiento?</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td rowspan="7"></td>
+                    <td colspan="2">
+                        <input type="radio" name="generom">
+                        <span class="mujer">Mujer&nbsp;&nbsp;</span>
+                        <input type="radio" name="generoh">
+                        <span class="hombre">Hombre</span><br><br>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <span class="licencia">Al hacer clic en Terminado, aceptas las <a href="#" class="function">Condiciones</a> y que has<br>
+                        leído <a href="#" class="function">la Política de uso</a> de datos, incluido el uso de <a href="#" class="function">cookies.</a></span>
+                        <br><br><button class="boton" type="submit">Terminado</button>
+                        <br><hr><br>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </body>
+</html>
