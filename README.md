@@ -19,3 +19,7 @@ Indice con enlace:
   0. Fondo `Azul y blanco`[Imagen 1](https://github.com/Wilver25/Facebook-Project/blob/master/Documentos/img/FONDOFB.png)
   0. Imagen global de Conexion social `Net`[Imagen 2](https://github.com/Wilver25/Facebook-Project/blob/master/Documentos/img/IMGFB.png)
 0. Imagen de pestaña `Generado con favicon` [Favicon](https://github.com/Wilver25/Facebook-Project/blob/master/Documentos/favicon/favicon.ico)
+
+
+####Nota:
+Las imagenes de .ico no se puede visualizar en el github solo desde el navegador. Para poder visualizarla de Click en Raw para poder visualizar la imagen
