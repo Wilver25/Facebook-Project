@@ -3,15 +3,14 @@
 Estructura:
 
 1. Código html.
-2. Creacion de un css (`estilo para la visualizacion del programa`)
-3. Commit your changes (`git commit -am "Added Snarkdown"`)
-4. Push to the branch (`git push origin my_markup`)
+2. Creación de un css (`estilo para la visualizacion del programa`)
+3. Creación de js (`creación de un codigo js para valdiar la entrada del proyecto`)
+4. Imagenes (`Imagenes para optimizar el estilo de la página`)
 5. Open a [Pull Request][1]
 6. Enjoy a refreshing Diet Coke and wait
-7. Release
 
 
-If you are the current maintainer of this gem:
+Indice con enlace:
 
 0. Bump the version number in `lib/github-markup.rb`, adhering to [Semantic Versioning](https://github.com/Wilver25/Facebook-Project/blob/master/index.html)
 0. Update `HISTORY.md`
