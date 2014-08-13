@@ -6,8 +6,8 @@ Estructura:
 2. Creación de un css (`estilo para la visualizacion del programa`)
 3. Creación de js (`creación de un codigo js para valdiar la entrada del proyecto`)
 4. Imagenes (`Imagenes para optimizar el estilo de la página`)
-5. Open a [Pull Request][1]
-6. Enjoy a refreshing Diet Coke and wait
+5. Adquisición de variables js para validación
+
 
 
 Indice con enlace:
