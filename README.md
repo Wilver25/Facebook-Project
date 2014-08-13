@@ -22,4 +22,4 @@ Indice con enlace:
 
 
 ####Nota:
-Las imagenes de .ico no se puede visualizar en el github solo desde el navegador. Para poder visualizarla de Click en Raw para poder visualizar la imagen
+Las imagenes de .ico no se puede visualizar en el github solo desde el navegador. Para poder visualizarla de Click en Raw para poder visualizar la imagen. (Imagen de Favicon)
