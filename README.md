@@ -13,8 +13,9 @@ Estructura:
 Indice con enlace:
 
 0. Estructura HTML `Datos de creación`, gratis [Index.html](https://github.com/Wilver25/Facebook-Project/blob/master/index.html)
-0. Update `HISTORY.md`
-0. Test the latest version on GitHub
+0. Estructura CSS `Estilo de Index.html` [Main.css](https://github.com/Wilver25/Facebook-Project/blob/master/Documentos/css/main.css)
+0. Estructura JS `Estilo de Index.html` [Main.css](https://github.com/Wilver25/Facebook-Project/blob/master/Documentos/js/main.js)
+0. Imagenes:
   0. Build the new version with `rake build`
   0. Copy `pkg/github-markup*.gem` to `vendor/cache` in your local checkout of GitHub
   0. Update the version for `github-markup` in the `Gemfile`
