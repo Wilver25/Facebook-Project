@@ -12,7 +12,7 @@ Estructura:
 
 Indice con enlace:
 
-0. Estructura HTML `Datos de creación`, gratis [Semantic Versioning](https://github.com/Wilver25/Facebook-Project/blob/master/index.html)
+0. Estructura HTML `Datos de creación`, gratis [Index.html](https://github.com/Wilver25/Facebook-Project/blob/master/index.html)
 0. Update `HISTORY.md`
 0. Test the latest version on GitHub
   0. Build the new version with `rake build`
