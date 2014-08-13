@@ -14,11 +14,8 @@ Indice con enlace:
 
 0. Estructura HTML `Datos de creación`, gratis [Index.html](https://github.com/Wilver25/Facebook-Project/blob/master/index.html)
 0. Estructura CSS `Estilo de Index.html` [Main.css](https://github.com/Wilver25/Facebook-Project/blob/master/Documentos/css/main.css)
-0. Estructura JS `Estilo de Index.html` [Main.css](https://github.com/Wilver25/Facebook-Project/blob/master/Documentos/js/main.js)
+0. Estructura JS `Validacion de entrada` [Main.js](https://github.com/Wilver25/Facebook-Project/blob/master/Documentos/js/main.js)
 0. Imagenes:
-  0. Build the new version with `rake build`
-  0. Copy `pkg/github-markup*.gem` to `vendor/cache` in your local checkout of GitHub
-  0. Update the version for `github-markup` in the `Gemfile`
-  0. Run `bundle update --local github-markup`
-  0. Run any relevant tests and test it manually from the browser.
-0. Push the new gem release with `rake release`. If you don't have permission to release to rubygems.org, contact one of the existing owners (`gem owners github-markup`) and ask them to add you.
+  0. Fondo `Azul y blanco`[Imagen 1](https://github.com/Wilver25/Facebook-Project/blob/master/Documentos/img/FONDOFB.png)
+  0. Imagen global de Conexion social `Net`[Imagen 2](https://github.com/Wilver25/Facebook-Project/blob/master/Documentos/img/IMGFB.png)
+0. Imagen de pestaña `Generado con favicon` [Favicon](https://github.com/Wilver25/Facebook-Project/blob/master/Documentos/favicon/favicon.ico)
